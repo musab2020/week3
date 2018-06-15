@@ -1,0 +1,43 @@
+*{
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom:10px;
+    padding: 0;
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.mk{
+    color: aliceblue;
+    height:65px;
+    padding: 5px;
+    margin-bottom:5px;
+    margin-top: 10px;
+    background: #692d8b;
+    
+}
+.mm
+{
+    color: aliceblue;
+    height:240px;
+    padding: 5px;
+    margin-bottom: 5px;
+    background: #bb1261;
+}
+.hk
+{
+    color: aliceblue;
+    height:120px;
+    padding: 5px;
+    margin-bottom: 5px;
+    background: #138b23;
+    
+}
+.tk
+{
+    height:140px;
+    padding: 5px;
+    margin-bottom: 5px;
+    background: #575f5f;
+}
